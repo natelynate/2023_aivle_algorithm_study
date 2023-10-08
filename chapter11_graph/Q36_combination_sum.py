@@ -2,8 +2,8 @@
 조합의 합
 https://leetcode.com/problems/combination-sum/
 
-runtime: 
-memory: 
+runtime: 2632ms
+memory: 16.56MB
 """
 from collections import Counter
 
